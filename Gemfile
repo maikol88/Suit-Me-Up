@@ -14,6 +14,7 @@ gem "paperclip", "~> 5.0.0.beta1"
 gem "paperclip-dropbox", ">= 1.1.7"
 gem "figaro"
 gem 'devise'
+gem 'rename'
 
 group :production do
   gem 'pg'

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/etsydemo.iml" filepath="$PROJECT_DIR$/.idea/etsydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SuitMeUp.iml" filepath="$PROJECT_DIR$/.idea/SuitMeUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SuitMeUp.iml" filepath="$PROJECT_DIR$/.idea/SuitMeUp.iml" />
     </modules>
   </component>
 </project>
