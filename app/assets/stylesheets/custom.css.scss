@@ -29,6 +29,10 @@ body {
   text-align: center;
 }
 
+.align-right{
+  text-align: right;
+}
+
 .col-md-3:nth-child(4n+1){
   clear: left;
 }
@@ -77,4 +81,12 @@ body {
   border-color: #d6e9c6;
   color: #468847;
   text-align: left;
+}
+
+.jumbotron{
+  background-image: url('fashion_bg2_big.jpg');
+  color: #FFFFFF;
+  h1, h2{
+    font-family: guardian-egyptt, georgia, serif;
+  }
 }
