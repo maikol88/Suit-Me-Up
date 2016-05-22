@@ -16,6 +16,7 @@ gem "figaro"
 gem 'devise'
 gem 'rename'
 gem 'stripe'
+gem 'pry-rails', :group => :development
 
 group :production do
   gem 'pg'

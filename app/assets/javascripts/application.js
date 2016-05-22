@@ -13,6 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require orders
 //= require_tree .
 // Load all Bootstrap JavaScript
 //= require bootstrap-sprockets
